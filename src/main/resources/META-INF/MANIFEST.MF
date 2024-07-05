@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: edu.gradinfo.dashboard.Main
+Class-Path: true
+Multi-Release: true
